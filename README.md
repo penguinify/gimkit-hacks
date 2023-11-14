@@ -3,7 +3,8 @@ Gimkit hacks that show you correct answers to questions you have already answere
 Also known as a answer bot
 
 # Limitations
-Requires you to answer questions correctly before it can start to work
+Requires you to answer questions correctly before it can start to work                   
+ONLY WORKS ON CLASSIC MODE
 
 # Installation
 Copy this into the url of a bookmark and use it on the gimkit game site.
