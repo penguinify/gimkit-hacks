@@ -1,0 +1,28 @@
+{
+  "name": "gimkit-hacks",
+  "version": "1.0.0",
+  "description": "Gimkit Hacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Penguinify/gimkit-hacks.git"
+  },
+  "keywords": [
+    "gimkit",
+    "hacks",
+    "cheats"
+  ],
+  "author": "penguinify",
+  "license": "SEE LICENSE IN License",
+  "bugs": {
+    "url": "https://github.com/Penguinify/gimkit-hacks/issues"
+  },
+  "homepage": "https://github.com/Penguinify/gimkit-hacks#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
